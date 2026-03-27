@@ -1,0 +1,42 @@
+SQL TEST 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+1. What do we really use SQL ? 
+
+2. Whats the purpose of a join ? PS " Dont say to join 2 tables , thats obvious , give more info on that" 
+
+3. Have you ever heard of CTE's , explain please ? 
+
+4. Whats the difference between "order by" and "having" clause ?
+
+4."Why did the SQL query break up with the database?"
+"Because it kept returning too many results and never focused on the right one!"
+
+----Do you understand this joke? Then explain , if no figure out and explain XD
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Okay write some queries since you know all these things !!!!!
+
+GOOD Luck !!!
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Objective - Retrieve information on a movies dataset .
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Tasks : 
+Just query the right way
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
