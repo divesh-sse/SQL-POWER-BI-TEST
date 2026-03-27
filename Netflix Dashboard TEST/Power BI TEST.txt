@@ -1,0 +1,29 @@
+POWER BI TEST 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+1. What is Power Bi? 
+
+2. What is Power Query ? 
+
+3. Whats the purpose of DAX in Power Bi? 
+
+4."Why did the dataset break up with the report?"
+"Because it felt used only for visualization and never truly understood!"
+
+----Do you understand this joke? Then explain , if no figure out and explain XD
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Okay lets paint a dashboard  !!!!!
+
+GOOD Luck !!!
+
+
+
+
+
+
+
+
